@@ -1,5 +1,5 @@
 body {
-    font-family: Helvetica;
+    font-family: Helvetica, sans-serif;
 }
 
 h1{
@@ -8,14 +8,14 @@ h1{
 }
 
 h2{ 
-    border-color: red;
+    border-bottom: grey;
     border-style: solid;
     border-width: 1px;
 
 }
 
 figure{
-    align-content: center;
+    text-align: center;
     background-color: "whitesmoke" ;
     color:"lightgrey"
 } 
